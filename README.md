@@ -10,4 +10,7 @@ Execução do Jogo
 Game Over
 ![WhatsApp Image 2020-04-01 at 7 51 05 PM](https://user-images.githubusercontent.com/44786237/78194583-f7fecd00-7453-11ea-91a3-867d12149f04.jpeg)
 
+Victoria
+
+![WhatsApp Image 2020-04-01 at 7 55 02 PM](https://user-images.githubusercontent.com/44786237/78194730-5461ec80-7454-11ea-852e-29235b310948.jpeg)
 
